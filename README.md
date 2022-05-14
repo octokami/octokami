@@ -1,10 +1,8 @@
-👋 Hi, I’m @octokami
+Hi, I’m @octokami
 
-🌱 I’m a Data Science & Entrepreneurship master student from the Netherlands.
+I’m a Data Science & Entrepreneurship master student from the Netherlands.
 
-👩‍💻 Machine Learning, Python, R
-
-💜 🎮, 🍣, 🐱, 🎃
+💜 Machine Learning, Python, R, 🎮, 🍣, 🐱, 🎃
 
 ❌ Bad Dutch weather ☔️
 
