@@ -1,7 +1,9 @@
 Hi, I’m @octokami
 
 I’m a Data Science & Entrepreneurship master student from the Netherlands.
+
 💜 Machine Learning, Python, R, 🎮, 🍣, 🐱, 🎃
+
 ❌ Bad Dutch weather ☔️
 <!---
 octokami/octokami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
